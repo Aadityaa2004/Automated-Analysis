@@ -1,6 +1,6 @@
 import requests
 
-AIPROXY_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjEwMDA2OThAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.MKsEq0u8VL9-Iosnud3wj-16sE2GQqVVhN9ESUoAwTg"
+AIPROXY_TOKEN = "SECRET_KEY"
 AI_PROXY_BASE_URL = "https://aiproxy.sanand.workers.dev/openai"
 
 headers = {
